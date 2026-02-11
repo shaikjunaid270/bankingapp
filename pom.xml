@@ -72,7 +72,7 @@
                 <version>3.8.1</version>
                 <configuration>
                     <source>1.8</source>
-                    <target>1.8</target>
+                    <target>/opt/apache-tomcat-9.0.115/webapps</target>
                 </configuration>
             </plugin>
 
@@ -80,4 +80,5 @@
     </build>
 
 </project>
+
 
